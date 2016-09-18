@@ -1,9 +1,9 @@
 # Home-Gateway
 
 Home Gateway represents a middleware between Everyday Objects and Smart-EDIFICE Platform.
-Its tasks:
-* save the objects basic knowledge in the database
-* menage the triggers that can be of three types:
+Its tasks are to:
+* save the objects-basic-knowledge in the database
+* manage the triggers which can be of three types:
   + time dependent
   + user-location dependent
   + object-status dependent
